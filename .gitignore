@@ -1,3 +1,4 @@
 .idea/*
 nike_bot/spiders/*.pyc
 *.pyc
+nike_bot/__init__.pyc
